@@ -1,4 +1,4 @@
 Hola
 Adios
 
-esto es un cambio
+esto es un conflicto
